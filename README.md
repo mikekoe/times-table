@@ -31,6 +31,8 @@ This project is beginner-friendly and demonstrates **user input handling**, **lo
 times-table/
 ├── main.go
 └── README.md
+```
+---
 
 ## Requirements
 - Go installed (Go 1.18+ recommended)
@@ -39,18 +41,22 @@ times-table/
 ```bash
 go version
 ```
+---
 
 ## Run the Program
 ### Navigate to the project directory and run:
 ```bash
 go run main.go
 ```
+---
 
 ## Example usage
 ### Type the following input on the cli:
 ```text 
 Enter a number to see its times table: 5
+```
 
+---
 
 ## Output
 ```text
@@ -66,5 +72,5 @@ Enter a number to see its times table: 5
 5 x 10 = 50
 5 x 11 = 55
 5 x 12 = 60
-
+```
 
